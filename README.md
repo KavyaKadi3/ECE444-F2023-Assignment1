@@ -8,3 +8,6 @@
 
 ## Activity 3
 <img width="1305" alt="Screen Shot 2023-09-11 at 8 58 15 AM" src="https://github.com/KavyaKadi3/ECE444-F2023-Assignment1/assets/65524500/96cdeaff-3037-4eb7-a597-5ed0a3c201be">
+
+## Activity 4
+<img width="1229" alt="Screen Shot 2023-09-13 at 11 18 09 PM" src="https://github.com/KavyaKadi3/ECE444-F2023-Assignment1/assets/65524500/08d917d8-4c7a-448a-97e8-0d38129d41d1">
